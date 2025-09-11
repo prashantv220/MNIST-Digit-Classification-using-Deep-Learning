@@ -90,5 +90,4 @@ Additionally, predictions are visualized for random test samples, showing both *
 CNN significantly outperforms fully connected networks on MNIST.
 
 ---
-   git clone https://github.com/yourusername/mnist-classification.git
-   cd mnist-classification
+
